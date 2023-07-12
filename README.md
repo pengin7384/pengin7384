@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-![Sanghee's github most Lang](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pengin7384&layout=compact&theme=tokyonight)
 [![Sanghee's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pengin7384&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
